@@ -1,4 +1,4 @@
-## 1. Herramientas para videojuegos
+# 1. Herramientas para videojuegos
 
 ### Tipos de herramientas:
 
